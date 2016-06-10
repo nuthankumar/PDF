@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="src/de/vogella/itext/write/lib/itext-pdfa-5.5.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="src/de/vogella/itext/write/lib/itext-pdfa-5.5.6.jar"/>
+	<classpathentry kind="lib" path="src/de/vogella/itext/write/lib/itext-pdfa-5.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="src/de/vogella/itext/write/lib/itext-xtra-5.5.6.jar"/>
+	<classpathentry kind="lib" path="src/de/vogella/itext/write/lib/itextpdf-5.5.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="src/de/vogella/itext/write/lib/itext-xtra-5.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="src/de/vogella/itext/write/lib/itext-xtra-5.5.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="src/de/vogella/itext/write/lib/itextpdf-5.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="src/de/vogella/itext/write/lib/itextpdf-5.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/JARS/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/JARS/mysql-connector-java-5.1.37.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
